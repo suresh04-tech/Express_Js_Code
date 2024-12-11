@@ -1,0 +1,19 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "suresh",
+  "license": "ISC",
+  "dependencies": {
+    "module": "^1.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
